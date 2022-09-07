@@ -1,6 +1,6 @@
 # # World_Weather_Analysis
 ## Summary 
-
+These project has 3 parts:
 1. ***Deliverable 1***: Retrieve Weather Data
 2. ***Deliverable 2***: Create a Customer Travel Destinations Map
 3. ***Deliverable 3***: Create a Travel Itinerary Map
